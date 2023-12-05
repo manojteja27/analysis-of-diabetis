@@ -1,1 +1,1 @@
-# analysis-of-diabetis
+# diabetis data analysis
